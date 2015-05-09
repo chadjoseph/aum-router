@@ -1,0 +1,19 @@
+{
+  "name": "aum-router",
+  "version": "0.0.1",
+  "description": "Aum particle.",
+  "keywords": [
+    "aum",
+    "mvc",
+    "particle"
+  ],
+  "author": {
+    "name": "Chad Joseph Brown",
+    "url": "http://www.chadjoseph.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadjoseph/aum-router.git"
+  }
+}
